@@ -193,4 +193,14 @@ html.sr .load-hidden {
 
 html.sr .widget {
     visibility: hidden;
+
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    .sidebar {
+        width: 100%;
+    }
 }
