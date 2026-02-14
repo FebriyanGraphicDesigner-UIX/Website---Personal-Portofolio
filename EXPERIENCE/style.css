@@ -1,0 +1,54 @@
+.container {
+    background-image: url(background.jpg);
+    background-repeat: repeat;
+    justify-content: center;
+    align-content: center;
+    background-color: black;
+    height: 300px;
+    position: relative;
+}
+
+.header {
+    background-color: rgba(240, 248, 255, 0.105);
+    background-size: 300px;
+    justify-content: center 500px;
+    align-content: center 200px;
+    left: 1500px;
+}
+
+.judul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    color: aliceblue;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.judul-2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    color: rgb(255, 0, 0, 0.7);
+    align-content: center;
+    justify-content: center;
+}
+
+.judul-1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.subjudul {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: aliceblue;
+    width: 1100px;
+    text-align: center 70%;
+    align-content: left;
+    justify-content: center;
+    height: 350px;
+}
